@@ -28,6 +28,7 @@ dependencies:
   path_provider: ^2.1.1
   bloc_test: ^9.1.4
   mocktail: ^1.0.0
+  function_tree: ^0.9.1
 
 dev_dependencies:
   flutter_test:
