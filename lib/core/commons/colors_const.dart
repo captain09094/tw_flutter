@@ -12,4 +12,5 @@ class ColorConstant {
   static const Color darkGrey = Color(0xff7F7F7F);
   static const Color green = Color(0xff2CD483);
   static Color lightGreen = const Color(0xff2CD483).withOpacity(0.1);
+  static Color lightGreenTest = const Color(0xff2CD483).withOpacity(0.1);
 }
